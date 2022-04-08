@@ -1,0 +1,96 @@
+.bg-black {
+  background-color: #01070b;
+  height: auto;
+}
+
+.rm-title {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43px;
+
+  background: linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.rm-title p {
+  margin-top: 10px;
+  border-radius: nullpx;
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 22px;
+  color: #01070b;
+}
+/* .arrow {
+  height: 52.301090240478565px;
+  width: 0px;
+  left: 961.7265625px;
+  top: 5239.2802734375px;
+  border-radius: 0px;
+  border: 5px solid #00cbbf;
+  margin-left: 6rem;
+  margin-top: -10px;
+  width: 4px;
+} */
+.arrow {
+  margin-left: -20px;
+  margin-top: 32px;
+}
+.rd-map {
+  margin-top: -37px;
+}
+.content {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  /* or 175% */
+  border: 3px solid #00cbbf;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+.bitcoin-img {
+  width: 78%;
+}
+.token-title {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 35px;
+  /* or 175% */
+
+  color: #00cbbf;
+}
+.m-title {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 43px;
+  text-align: center;
+
+  background: linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.hr {
+  background: linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  width: 266px;
+  height: 5px;
+}
+.g-title {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 43px;
+  text-align: center;
+  color: #00cbbf;
+}

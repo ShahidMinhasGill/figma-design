@@ -1,0 +1,18 @@
+.team-title {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+
+  background: linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.e-accordion .e-acrdn-item.e-select.e-active > .e-acrdn-header,
+.e-accordion .e-acrdn-item.e-select.e-item-focus > .e-acrdn-header {
+  background-color: rgb(0, 15, 100) !important;
+}

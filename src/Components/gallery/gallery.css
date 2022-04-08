@@ -1,0 +1,22 @@
+.gallery h3 {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43px;
+  text-transform: uppercase;
+  margin-top: 4rem;
+
+  background: linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gallery-img {
+  width: 200px;
+  padding: 1rem;
+}
+.imges {
+  align-items: center;
+}

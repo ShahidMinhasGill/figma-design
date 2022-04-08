@@ -1,0 +1,14 @@
+.me-aut {
+  padding-left: 21rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .me-aut {
+    padding-left: 0px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .me-aut {
+    padding-left: 0px;
+  }
+}

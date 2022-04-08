@@ -1,0 +1,78 @@
+.bg-img {
+  background-image: url("../../../public/Hero-image.jpg");
+  background-size: cover;
+}
+
+.bg-img h5 {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 43px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.bg-img img {
+  width: 1000px;
+  padding-bottom: 40px;
+}
+.mt {
+  border: solid red 1px;
+  margin-top: 70px;
+  text-align: center;
+  width: 33%;
+}
+.logo-img img {
+  margin-top: 3rem;
+  width: 390px;
+
+  left: 327px;
+  top: 1009px;
+}
+.title h4 {
+  margin-top: 50px;
+  text-align: left;
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 86px;
+
+  background: linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.title p {
+  text-align: left;
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 38px;
+  /* or 190% */
+
+  text-align: justify;
+
+  color: #ffffff;
+}
+
+.title h3 {
+  font-family: "Nexa";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+
+  background: linear-gradient(93.2deg, #009eff 12.14%, #0029ff 92.31%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.title img {
+  width: 800px;
+  margin-top: 3rem;
+}
