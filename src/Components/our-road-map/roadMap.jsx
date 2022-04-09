@@ -5,7 +5,7 @@ import { BsFillCaretDownFill } from "react-icons/bs";
 export default function roadMap() {
   return (
     <div className="container-fluid bg-black">
-      <div className="container">
+      <div className="container" id="roadmap">
         <div className="row d-flex justify-content-center ">
           <div className="col-lg-4 text-left  mt-5">
             <h3 className="rm-title">SPECS</h3>

@@ -3,7 +3,7 @@ import "./team.css";
 import { Accordion } from "react-bootstrap";
 export default function team() {
   return (
-    <div className="container-fluid bg-dark">
+    <div className="container-fluid bg-dark" id="team">
       <div className="container ">
         <div className="row d-flex justify-content-center">
           <h3 className="team-title mt-5">THE TEAM</h3>
@@ -22,7 +22,9 @@ export default function team() {
               lore. They combined their powers to bring this collection to life.
             </p>
           </div>
-          <h3 className="team-title mt-5">FQA</h3>
+          <h3 className="team-title mt-5" id="faq">
+            FAQ
+          </h3>
           <div className="col-lg-8 mb-5">
             <Accordion defaultActiveKey="0" variant="link">
               <Accordion.Item eventKey="0">

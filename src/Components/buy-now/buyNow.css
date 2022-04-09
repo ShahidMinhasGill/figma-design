@@ -1,9 +1,4 @@
 .buy-now {
-  /* width: 1920px; */
-  height: 250px;
-  left: 0px;
-  top: 4045px;
-
   background: #0066cb;
 }
 .buy-now img {
@@ -12,22 +7,11 @@
   left: 377.67px;
   top: 4112px;
 }
-@media (max-width: 480px) {
-  .buy-now {
-    /* width: 1920px; */
-    height: 250px;
-    left: 0px;
-    top: 4045px;
-    align-items: center;
 
-    background: #0066cb;
-  }
+@media (max-width: 700px) {
   .buy-now img {
     width: 100px;
     height: 100px;
     align-items: center;
-  }
-  .teex {
-    font-size: 12px;
   }
 }

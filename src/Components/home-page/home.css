@@ -78,6 +78,12 @@
   width: 800px;
   margin-top: 3rem;
 }
+@media (max-width: 1050px) {
+  .nft-img {
+    max-width: 99%;
+    max-height: 99%;
+  }
+}
 @media (max-width: 770px) {
   .nft-img {
     max-width: 100%;
@@ -100,13 +106,10 @@
     text-align: center;
   }
   #home-image {
-    width: 300px;
+    width: 250px;
   }
   .logo-img img {
     margin-top: 3rem;
     width: 190px;
-
-    left: 327px;
-    top: 1009px;
   }
 }

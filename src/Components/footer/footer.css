@@ -1,29 +1,14 @@
 .imge {
   width: 50px;
 }
-.iconss {
-  left: 8.33%;
-  right: 8.33%;
-  top: 8.33%;
-  bottom: 8.33%;
-
-  /* background: #ffffff; */
-}
 
 @media (max-width: 480px) {
-  .iconss {
-    text-align: center;
-    font-size: 10px;
-    display: flex;
-    margin-left: 5rem;
-    /* background: #ffffff; */
-  }
   .imge {
     width: 50px;
     text-align: center;
     font-size: 10px;
     display: flex;
-    margin-left: 5rem;
+    margin-left: 3rem;
     margin-bottom: 1rem;
   }
 }

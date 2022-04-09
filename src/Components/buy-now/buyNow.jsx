@@ -3,9 +3,9 @@ import "./buyNow.css";
 export default function buyNow() {
   return (
     <div>
-      <div className="container-fluid buy-now text-white">
+      <div className="container-fluid buy-now text-white" id="mint">
         <div className="row d-flex justify-content-center align-items-center">
-          <div className="col-lg-4 col-md-6 text-end">
+          <div className="col-lg-4 col-md-6 text-center">
             <img src="Group-2568.png" alt="" />
           </div>
           <div className="col-lg-7 text-start ">

@@ -1,6 +1,23 @@
 .me-aut {
   padding-left: 21rem;
 }
+.btn {
+  width: 184px;
+  height: 42px;
+  background: #0066cb;
+  border-radius: 100px;
+
+  font-family: "Nexa";
+
+  font-weight: 800;
+  font-size: 12px;
+  line-height: 30px;
+  /* or 150% */
+
+  text-align: center;
+
+  color: #ffffff;
+}
 
 @media only screen and (max-width: 600px) {
   .me-aut {
