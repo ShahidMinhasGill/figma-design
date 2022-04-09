@@ -17,11 +17,13 @@
   width: 1000px;
   padding-bottom: 40px;
 }
-.mt {
-  border: solid red 1px;
-  margin-top: 70px;
+#mt {
+  padding-top: 70px;
+  font-size: 40px;
   text-align: center;
-  width: 33%;
+}
+#home-image {
+  width: 600px;
 }
 .logo-img img {
   margin-top: 3rem;
@@ -75,4 +77,36 @@
 .title img {
   width: 800px;
   margin-top: 3rem;
+}
+@media (max-width: 770px) {
+  .nft-img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  #mt {
+    padding-top: 70px;
+    font-size: 30px;
+    text-align: center;
+  }
+  #home-image {
+    width: 500px;
+  }
+}
+
+@media (max-width: 480px) {
+  #mt {
+    padding-top: 70px;
+    font-size: 20px;
+    text-align: center;
+  }
+  #home-image {
+    width: 300px;
+  }
+  .logo-img img {
+    margin-top: 3rem;
+    width: 190px;
+
+    left: 327px;
+    top: 1009px;
+  }
 }

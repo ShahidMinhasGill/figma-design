@@ -8,12 +8,10 @@ export default function home() {
       <section>
         <Container fluid className="bg-img img-fluid">
           <div className="container">
-            <h5 className="text-center mt me-5 bd-highlight d-inline-block">
-              Welcome to the Spoiled Young Ape Club (SYAC)
-            </h5>
+            <h5 id="mt">Welcome to the Spoiled Young Ape Club (SYAC)</h5>
             <div className="row">
               <div className="col-lg-12">
-                <img src="Group-2584.png" alt="" />
+                <img className="nft-img" src="Group-2584.png" alt="" />
               </div>
             </div>
           </div>
@@ -51,8 +49,8 @@ export default function home() {
             </div>
             <div className="row title mt-5 d-flex justify-content-right">
               <h3>APE MINING FARM</h3>
-              <div className="col-lg-12">
-                <img src="ape-bitcoin.png" alt="" />
+              <div className="col-lg-12 col-md-6">
+                <img src="ape-bitcoin.png" alt="" id="home-image" />
                 <div>
                   <h4>JOIN THE COMMUNITY</h4>
                   <p>

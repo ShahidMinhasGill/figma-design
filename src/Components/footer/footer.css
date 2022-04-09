@@ -9,3 +9,21 @@
 
   /* background: #ffffff; */
 }
+
+@media (max-width: 480px) {
+  .iconss {
+    text-align: center;
+    font-size: 10px;
+    display: flex;
+    margin-left: 5rem;
+    /* background: #ffffff; */
+  }
+  .imge {
+    width: 50px;
+    text-align: center;
+    font-size: 10px;
+    display: flex;
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+  }
+}
